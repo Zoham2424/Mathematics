@@ -29,7 +29,7 @@ namespace Mathematics
         {
             return value * value;
         }
-        public double CalcHypotenuse(double a, double b)
+        public double CalcHypotenuse(double a, double b )
         {
             double c = Math.Sqrt(Squared(a) + Squared(b));
             return c;

@@ -9,3 +9,15 @@ C:\Users\008004609\source\repos\Mathematics\Mathematics\obj\Debug\net8.0\Mathema
 C:\Users\008004609\source\repos\Mathematics\Mathematics\obj\Debug\net8.0\refint\Mathematics.dll
 C:\Users\008004609\source\repos\Mathematics\Mathematics\obj\Debug\net8.0\Mathematics.pdb
 C:\Users\008004609\source\repos\Mathematics\Mathematics\obj\Debug\net8.0\ref\Mathematics.dll
+C:\Users\ianal\Source\Repos\Mathematics\Mathematics\obj\Debug\net8.0\Mathematics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianal\Source\Repos\Mathematics\Mathematics\obj\Debug\net8.0\Mathematics.AssemblyInfoInputs.cache
+C:\Users\ianal\Source\Repos\Mathematics\Mathematics\obj\Debug\net8.0\Mathematics.AssemblyInfo.cs
+C:\Users\ianal\Source\Repos\Mathematics\Mathematics\obj\Debug\net8.0\Mathematics.csproj.CoreCompileInputs.cache
+C:\Users\ianal\Source\Repos\Mathematics\Mathematics\obj\Debug\net8.0\Mathematics.sourcelink.json
+C:\Users\ianal\Source\Repos\Mathematics\Mathematics\obj\Debug\net8.0\Mathematics.dll
+C:\Users\ianal\Source\Repos\Mathematics\Mathematics\obj\Debug\net8.0\refint\Mathematics.dll
+C:\Users\ianal\Source\Repos\Mathematics\Mathematics\obj\Debug\net8.0\Mathematics.pdb
+C:\Users\ianal\Source\Repos\Mathematics\Mathematics\bin\Debug\net8.0\Mathematics.deps.json
+C:\Users\ianal\Source\Repos\Mathematics\Mathematics\bin\Debug\net8.0\Mathematics.dll
+C:\Users\ianal\Source\Repos\Mathematics\Mathematics\bin\Debug\net8.0\Mathematics.pdb
+C:\Users\ianal\Source\Repos\Mathematics\Mathematics\obj\Debug\net8.0\ref\Mathematics.dll
