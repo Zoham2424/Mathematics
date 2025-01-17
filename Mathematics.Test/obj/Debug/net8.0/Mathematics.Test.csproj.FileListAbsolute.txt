@@ -1,9 +1,6 @@
 C:\Users\008004609\source\repos\Mathematics\Mathematics.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_Mathematics.Test
 C:\Users\008004609\source\repos\Mathematics\Mathematics.Test\bin\Debug\net8.0\testhost.dll
 C:\Users\008004609\source\repos\Mathematics\Mathematics.Test\bin\Debug\net8.0\testhost.exe
-C:\Users\008004609\source\repos\Mathematics\Mathematics.Test\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-C:\Users\008004609\source\repos\Mathematics\Mathematics.Test\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
-C:\Users\008004609\source\repos\Mathematics\Mathematics.Test\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
 C:\Users\008004609\source\repos\Mathematics\Mathematics.Test\bin\Debug\net8.0\Mathematics.Test.deps.json
 C:\Users\008004609\source\repos\Mathematics\Mathematics.Test\bin\Debug\net8.0\Mathematics.Test.runtimeconfig.json
 C:\Users\008004609\source\repos\Mathematics\Mathematics.Test\bin\Debug\net8.0\Mathematics.Test.dll
@@ -201,3 +198,5 @@ C:\Users\ianal\Source\Repos\Mathematics\Mathematics.Test\bin\Debug\net8.0\Mathem
 C:\Users\ianal\Source\Repos\Mathematics\Mathematics.Test\obj\Debug\net8.0\Mathemat.7522A4B6.Up2Date
 C:\Users\ianal\Source\Repos\Mathematics\Mathematics.Test\obj\Debug\net8.0\Mathematics.Test.genruntimeconfig.cache
 C:\Users\ianal\Source\Repos\Mathematics\Mathematics.Test\obj\Debug\net8.0\ref\Mathematics.Test.dll
+C:\Users\008004609\Source\Repos\Mathematics\Mathematics.Test\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\008004609\Source\Repos\Mathematics\Mathematics.Test\obj\Debug\net8.0\Mathematics.Test.sourcelink.json

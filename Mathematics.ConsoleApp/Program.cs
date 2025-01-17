@@ -1,4 +1,4 @@
-﻿namespace Mathmatics.ConsoleApp
+﻿namespace Mathematics.ConsoleApp
 {
     internal class Program
     {
@@ -20,25 +20,25 @@
 
                     case "+":
                         {
-                            result = basicMath.Add(operand1, operand2);
+                            result = basicMath.AddNumbers(operand1, operand2);
                             operationDes = "plus";
                             break;
                         }
                     case "-":
                         {
-                            result = basicMath.Subtract(operand1, operand2);
+                            result = basicMath.SubtractNumbers(operand1, operand2);
                             operationDes = "minus";
                             break;
                         }
                     case "*":
                         {
-                            result = basicMath.Multiply(operand1, operand2);
+                            result = basicMath.MultiplyNumbers(operand1, operand2);
                             operationDes = "multiply by";
                             break;
                         }
                     case "/":
                         {
-                            result = basicMath.Divide(operand1, operand2);
+                            result = basicMath.DivideNumbers(operand1, operand2);
                             operationDes = "divided by";
                             break;
                         }
@@ -64,7 +64,7 @@
         {
             if (args.Length < 3)
             {
-                throw new ArgumentOutOfRangeException("Not Enough argumens were passed to perform the operation")
+                throw new ArgumentOutOfRangeException("Not Enough argumens were passed to perform the operation");
             }
 
             if (args[0] != "+" || args[0] != "-" || args[0] != "*" || args[0] != "/")
@@ -79,7 +79,7 @@
             {
                 throw new ArgumentException("Second argument argunment must be a math operatior.");
             }
-            operation = args[0]
+            operation = args[0];
 
         }
 
