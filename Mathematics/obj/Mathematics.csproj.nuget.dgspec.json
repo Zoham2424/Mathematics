@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics\\Mathematics.csproj": {}
+    "C:\\Users\\008004609\\Source\\Repos\\Mathematics\\Mathematics\\Mathematics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics\\Mathematics.csproj": {
+    "C:\\Users\\008004609\\Source\\Repos\\Mathematics\\Mathematics\\Mathematics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics\\Mathematics.csproj",
+        "projectUniqueName": "C:\\Users\\008004609\\Source\\Repos\\Mathematics\\Mathematics\\Mathematics.csproj",
         "projectName": "Mathematics",
-        "projectPath": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics\\Mathematics.csproj",
-        "packagesPath": "C:\\Users\\ianal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics\\obj\\",
+        "projectPath": "C:\\Users\\008004609\\Source\\Repos\\Mathematics\\Mathematics\\Mathematics.csproj",
+        "packagesPath": "C:\\Users\\008004609\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\008004609\\Source\\Repos\\Mathematics\\Mathematics\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ianal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\008004609\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,8 +43,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        }
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -56,24 +61,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.101, 9.0.101]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

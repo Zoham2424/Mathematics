@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XcTQKrMOcVo=",
+  "dgSpecHash": "kP2/PTfwr4o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics\\Mathematics.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ianal\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512",
-    "C:\\Users\\ianal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
-    "C:\\Users\\ianal\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "C:\\Users\\ianal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\008004609\\Source\\Repos\\Mathematics\\Mathematics\\Mathematics.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
