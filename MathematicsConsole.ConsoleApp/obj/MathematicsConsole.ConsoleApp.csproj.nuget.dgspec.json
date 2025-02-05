@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics.Test\\Mathematics.Test.csproj": {}
+    "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\MathematicsConsole.ConsoleApp\\MathematicsConsole.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics.Test\\Mathematics.Test.csproj": {
+    "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\MathematicsConsole.ConsoleApp\\MathematicsConsole.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics.Test\\Mathematics.Test.csproj",
-        "projectName": "Mathematics.Test",
-        "projectPath": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics.Test\\Mathematics.Test.csproj",
+        "projectUniqueName": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\MathematicsConsole.ConsoleApp\\MathematicsConsole.ConsoleApp.csproj",
+        "projectName": "MathematicsConsole.ConsoleApp",
+        "projectPath": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\MathematicsConsole.ConsoleApp\\MathematicsConsole.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\ianal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ianal\\source\\repos\\Mathematics\\Mathematics.Test\\obj\\",
+        "outputPath": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\MathematicsConsole.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,26 +53,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.8.0, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.5.3, )"
-            },
-            "xunit.runner.visualstudio": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -100,7 +80,7 @@
         "projectName": "Mathematics",
         "projectPath": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics\\Mathematics.csproj",
         "packagesPath": "C:\\Users\\ianal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ianal\\source\\repos\\Mathematics\\Mathematics\\obj\\",
+        "outputPath": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
