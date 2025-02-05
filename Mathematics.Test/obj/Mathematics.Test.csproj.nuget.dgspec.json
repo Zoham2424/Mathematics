@@ -11,7 +11,7 @@
         "projectName": "Mathematics.Test",
         "projectPath": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics.Test\\Mathematics.Test.csproj",
         "packagesPath": "C:\\Users\\ianal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ianal\\source\\repos\\Mathematics\\Mathematics.Test\\obj\\",
+        "outputPath": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,7 +100,7 @@
         "projectName": "Mathematics",
         "projectPath": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics\\Mathematics.csproj",
         "packagesPath": "C:\\Users\\ianal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ianal\\source\\repos\\Mathematics\\Mathematics\\obj\\",
+        "outputPath": "C:\\Users\\ianal\\Source\\Repos\\Mathematics\\Mathematics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
