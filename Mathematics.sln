@@ -7,11 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematics", "Mathematics\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematics.Test", "Mathematics.Test\Mathematics.Test.csproj", "{00F1BE63-8964-4081-8BDE-89FE2F6862B6}"
 EndProject
-<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicsConsole.ConsoleApp", "MathematicsConsole.ConsoleApp\MathematicsConsole.ConsoleApp.csproj", "{C303DC3C-865B-4BF9-8C7D-9E1806983065}"
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematics.ConsoleApp", "Mathematics.ConsoleApp\Mathematics.ConsoleApp.csproj", "{106DBD37-53E0-4A86-B28E-09E0479F7228}"
->>>>>>> 08452c34f8bb12af2615a30d3a9cfbf77892b4d7
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,17 +23,10 @@ Global
 		{00F1BE63-8964-4081-8BDE-89FE2F6862B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00F1BE63-8964-4081-8BDE-89FE2F6862B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00F1BE63-8964-4081-8BDE-89FE2F6862B6}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
 		{C303DC3C-865B-4BF9-8C7D-9E1806983065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C303DC3C-865B-4BF9-8C7D-9E1806983065}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C303DC3C-865B-4BF9-8C7D-9E1806983065}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C303DC3C-865B-4BF9-8C7D-9E1806983065}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
-		{106DBD37-53E0-4A86-B28E-09E0479F7228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{106DBD37-53E0-4A86-B28E-09E0479F7228}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{106DBD37-53E0-4A86-B28E-09E0479F7228}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{106DBD37-53E0-4A86-B28E-09E0479F7228}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> 08452c34f8bb12af2615a30d3a9cfbf77892b4d7
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
